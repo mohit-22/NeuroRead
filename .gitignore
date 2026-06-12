@@ -1,0 +1,10 @@
+NeuroRead_AI_v2.docx
+venv/
+.env
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+NeuroRead_AI_v2.docx
